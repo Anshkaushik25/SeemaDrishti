@@ -1,0 +1,2 @@
+video,resolution,source_fps,frame_count,processed_frames,elapsed_seconds,processing_fps,average_latency_ms,device,person_detections,vehicle_detections
+cctv_sample_test.mp4,640x480,25.0,75,75,8.09,9.28,104.62,CPU,0,0
